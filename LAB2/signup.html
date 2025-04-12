@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<head>  
+    <link rel="stylesheet" href="main.css" type="text/css">
+    <title>signup page</title>
+</head>
+<body> 
+    <h1> WELCOME T0 INTERNET-PROGRAMMING MOVIE SITE</h1>
+    <div>
+    <label><a href="login.html"><button>로그인</button></a>  <a href="signup.html"><button>회원가입</button></a></label>
+    <div>
+    <form method="post" autocomplete="on">
+        <p><label>이름: <input name="이름" type="text" placeholder="홍길동"autofocus required></label><p>
+
+        <p>
+            성별:
+            <label><input name="성별" type="radio" value="남성" >남성</label>
+            <label><input name="성별" type="radio" value="여성" >여성</label>
+        </p>
+
+        <p><label>거주지:  <select name="region">
+            <option value="수도권">수도권 (서울, 경기, 인천)</option>
+            <option value="강원권">강원권 (강원특별자치도)</option>
+            <option value="충청권">충청권 (대전, 세종, 충북, 충남)</option>
+            <option value="전라권">전라권 (광주, 전북, 전남)</option>
+            <option value="경상권">경상권 (대구, 부산, 울산, 경북, 경남)</option>
+            <option value="제주권">제주권 (제주특별자치도)</option>
+          </select></label></p>
+        
+        <p><label>학년: <input name="학년" type="number" min="1" max="6" step="1" value="1"></label></p>
+
+        <p><label>아이디: <input name="아이디" type="text"required autofocus></label></p>
+
+        <p><label>비밀번호: <input name="비밀번호" type="password"required autofocus></label></p>
+        
+        <p><label>이메일: <input name="이메일" type="email" placeholder="name@domain.com" required></label></p>
+        <br/>
+        <input type="submit" value="signup" class="submit">
+        <input type="reset" value="clear" class="reset">
+    </form>
+    </div>
+</div>
+</body>
