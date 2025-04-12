@@ -1,0 +1,35 @@
+  h1{
+    font-family:'Courier New', Courier, monospace;
+    text-align:center;
+  }
+  div{
+    text-align: center;
+  }
+  div div{
+    position: absolute;
+    left: 50%;
+    width:350px;
+    transform:translate(-50%,0);
+    height:auto;
+    text-align: left;
+    padding:10px;
+    margin:10px;
+    border:medium solid black;
+  }
+
+  .submit{
+    background-color: lightgreen;
+    color: black;
+    font-size:150%;
+    width: 30%;
+    border-style:none;
+    border-radius:10px;
+  }
+  .reset{
+    background-color: red;
+    color: white;
+    font-size:150%;
+    width: 20%;
+    border-style:none;
+    border-radius:10px;
+  }
