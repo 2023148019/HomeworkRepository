@@ -1,0 +1,142 @@
+[
+  {
+    "title": "IRON MAN",
+    "poster": "https://image.tmdb.org/t/p/w500/78lPtwv72eTNqFW9COBYI0dWDJa.jpg",
+    "vote_average": 7.4,
+    "release_date": "2008-04-30",
+    "overview": "After being held captive in an Afghan cave, billionaire engineer Tony Stark creates a unique weaponized suit of armor to fight evil."
+  },
+  {
+    "title": "AVATAR",
+    "poster": "https://image.tmdb.org/t/p/w500/kyeqWdyUXW608qlYkRqosgbbJyK.jpg",
+    "vote_average": 7.2,
+    "release_date": "2009-12-10",
+    "overview": "In the 22nd century, a paraplegic Marine is dispatched to the moon Pandora on a unique mission, but becomes torn between following orders and protecting an alien civilization."
+  },
+  {
+    "title": "ZOOTOPIA",
+    "poster": "https://media.themoviedb.org/t/p/w440_and_h660_face/fZcab1yiKXsjx3S8D4KRHZsnMGC.jpg",
+    "vote_average": 7.7,
+    "release_date": "2016-02-11",
+    "overview": "Determined to prove herself, Officer Judy Hopps, the first bunny on Zootopia's police force, jumps at the chance to crack her first case—even if it means partnering with scam-artist fox Nick Wilde to solve the mystery."
+  },
+  {
+    "title": "Real Steel",
+    "poster": "https://media.themoviedb.org/t/p/w440_and_h660_face/4GIeI5K5YdDUkR3mNQBoScpSFEf.jpg",
+    "vote_average": 6.6,
+    "release_date": "2011-09-28",
+    "overview": "In the near-future, Charlie Kenton is a washed-up fighter who retired from the ring when robots took over the sport. After Charlie's robot is trashed, he reluctantly teams up with his estranged son Max to rebuild and train an unlikely contender."
+  },
+  {
+    "title": "THE SHAWSHANK REDEMPTION",
+    "poster": "https://image.tmdb.org/t/p/w500/q6y0Go1tsGEsmtFryDOJo3dEmqu.jpg",
+    "vote_average": 8.5,
+    "release_date": "1994-09-23",
+    "overview": "Framed in the 1940s for the double murder of his wife and her lover, upstanding banker Andy Dufresne begins a new life at the Shawshank prison, where he puts his accounting skills to work for an amoral warden. During his long stretch in prison, Dufresne comes to be admired by the other inmates— including an older prisoner named Red— for his integrity and unquenchable sense of hope."
+  },
+  {
+    "title": "WORLD WAR Z",
+    "poster": "https://media.themoviedb.org/t/p/w440_and_h660_face/1SWBSYJsnyhdNRfLI1T6RsCxAQ4.jpg",
+    "vote_average": 6.7,
+    "release_date": "2013-06-20",
+    "overview": "Life for former United Nations investigator Gerry Lane and his family seems content. Suddenly, the world is plagued by a mysterious infection turning whole human populations into rampaging mindless zombies. After barely escaping the chaos, Lane is persuaded to go on a mission to investigate this disease. What follows is a perilous trek around the world where Lane must brave horrific dangers and long odds to find answers before human civilization falls."
+  },
+  {
+    "title": "MONEYBALL",
+    "poster": "https://media.themoviedb.org/t/p/w440_and_h660_face/4yIQq1e6iOcaZ5rLDG3lZBP3j7a.jpg",
+    "vote_average": 7,
+    "release_date": "2011-09-22",
+    "overview": "The story of Oakland Athletics general manager Billy Beane's successful attempt to assemble a baseball team on a lean budget by employing computer-generated analysis to acquire new players."
+  },
+  {
+    "title": "THE LORD OF THE RINGS",
+    "poster": "https://image.tmdb.org/t/p/w500/6oom5QYQ2yQTMJIbnvbkBL9cHo6.jpg",
+    "vote_average": 8.8,
+    "release_date": "2001-12-19",
+    "overview": "Young hobbit Frodo Baggins, after inheriting a mysterious ring from his uncle Bilbo, must leave his home to embark on a dangerous quest to destroy it. Accompanied by a fellowship of friends and allies, Frodo must journey deep into Mordor, the heart of Sauron's evil domain, to destroy the One Ring."
+  },
+  {
+    "title": "INCEPTION",
+    "poster": "https://image.tmdb.org/t/p/w500/edv5CZvWj09upOsy2Y6IwDhK8bt.jpg",
+    "vote_average": 8.8,
+    "release_date": "2010-07-16",
+    "overview": "Cobb, a skilled thief who commits corporate espionage by infiltrating the subconscious of his targets, is offered a chance to regain his old life as payment for a task considered to be impossible: 'inception', the implantation of another person's idea into a target's subconscious."
+  },
+  {
+    "title": "INTERSTELLAR",
+    "poster": "https://image.tmdb.org/t/p/w500/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg",
+    "vote_average": 8.6,
+    "release_date": "2014-11-07",
+    "overview": "The adventures of a group of explorers who make use of a newly discovered wormhole to surpass the limitations on human space travel and conquer the vast distances involved in an interstellar voyage."
+  },
+  {
+    "title": "THE MARTIAN",
+    "poster": "https://media.themoviedb.org/t/p/w440_and_h660_face/3ndAx3weG6KDkJIRMCi5vXX6Dyb.jpg",
+    "vote_average": 8.0,
+    "release_date": "2015-10-02",
+    "overview": "During a manned mission to Mars, Astronaut Mark Watney is presumed dead after a fierce storm and left behind by his crew. But Watney has survived and finds himself stranded and alone on the hostile planet. With only meager supplies, he must draw upon his ingenuity, wit and spirit to subsist and find a way to signal to Earth that he is alive."
+  },
+  {
+    "title": "BACK TO THE FUTURE",
+    "poster": "https://image.tmdb.org/t/p/w500/fNOH9f1aA7XRTzl1sAOx9iF553Q.jpg",
+    "vote_average": 8.5,
+    "release_date": "1985-07-03",
+    "overview": "Eighties teenager Marty McFly is accidentally sent back in time to 1955, inadvertently disrupting his parents' first meeting and attracting his mother's romantic interest. Marty must repair the damage to history by rekindling his parents' romance and— with the help of his eccentric inventor friend Doc Brown— return to 1985."
+  },
+  {
+    "title": "MAD MAX: FURY ROAD",
+    "poster": "https://image.tmdb.org/t/p/original/xJ4zXGJsxHCwck8w14i9NVAKbHV.jpg",
+    "vote_average": 8.1,
+    "release_date": "2015-05-15",
+    "overview": "An apocalyptic story set in the furthest reaches of our planet, in a stark desert landscape where humanity is broken, and most everyone is crazed fighting for the necessities of life. Within this world exist two rebels on the run who just might be able to restore order."
+  },
+  {
+    "title": "TOMORROWLAND",
+    "poster": "https://media.themoviedb.org/t/p/w440_and_h660_face/iHh0nVGVODAFduF6Q6njdSSCEfX.jpg",
+    "vote_average": 6.4,
+    "release_date": "2015-05-22",
+    "overview": "Bound by a shared destiny, a bright, optimistic teen bursting with scientific curiosity and a former boy-genius inventor embark on a danger-filled mission to unearth the secrets of a mysterious place somewhere in time and space known only as 'Tomorrowland.'"
+  },
+  {
+    "title": "AMERICAN SNIPER",
+    "poster": "https://media.themoviedb.org/t/p/w440_and_h660_face/i1U46OwMc6vlm7OoSUKfqUH615e.jpg",
+    "vote_average": 7.3,
+    "release_date": "2014-12-25",
+    "overview": "U.S. Navy SEAL Chris Kyle takes his sole mission—protect his comrades—to heart and becomes one of the most lethal snipers in American history. His pinpoint accuracy not only saves countless lives but also makes him a prime target of insurgents. Despite grave danger and his struggle to be a good husband and father to his family back in the States, Chris serves four tours of duty in Iraq. However, upon returning home, Chris finds that he can't leave the war behind."
+  },
+  {
+    "title": "JOHN WICK",
+    "poster": "https://media.themoviedb.org/t/p/w440_and_h660_face/cED21Lm3Kt69WoWZAV9ybFu6A72.jpg",
+    "vote_average": 7.4,
+    "release_date": "2014-10-24",
+    "overview": "Ex-hitman John Wick comes out of retirement to track down the gangsters that killed his dog and took everything from him."
+  },
+  {
+    "title": "THE MAZE RUNNER",
+    "poster": "https://media.themoviedb.org/t/p/w440_and_h660_face/8pf1jKMcmhm0REsYfd0jEJxDS3i.jpg",
+    "vote_average": 6.8,
+    "release_date": "2014-09-19",
+    "overview": "Set in a post-apocalyptic world, young Thomas is deposited in a community of boys after his memory is erased, soon learning they're all trapped in a maze that will require him to join forces with fellow 'runners' for a shot at escape."
+  },
+  {
+    "title": "TEENAGE MUTANT NINJA TURTLES",
+    "poster": "https://media.themoviedb.org/t/p/w440_and_h660_face/9doWjHfoP0ARJqOFE0eKWBpT5aR.jpg",
+    "vote_average": 5.8,
+    "release_date": "2014-08-08",
+    "overview": "When a kingpin threatens New York City, a group of mutated turtle warriors must emerge from the shadows to protect their home."
+  },
+  {
+    "title": "DIVERGENT",
+    "poster": "https://media.themoviedb.org/t/p/w440_and_h660_face/y6rdJaCHoDUewGKR4VMqGpkf18G.jpg",
+    "vote_average": 6.6,
+    "release_date": "2014-03-21",
+    "overview": "In a world divided into factions based on personality types, Tris learns she's Divergent and won't fit in. When she discovers a plot to destroy Divergents, Tris and the mysterious Four must find out what makes Divergents dangerous before it's too late."
+  },
+  {
+    "title": "DAWN OF THE PLANET OF THE APES",
+    "poster": "https://media.themoviedb.org/t/p/w440_and_h660_face/w0TNSoDudZgxgKilyNI5QxA6Bk2.jpg",
+    "vote_average": 7.6,
+    "release_date": "2014-07-11",
+    "overview": "A growing nation of genetically evolved apes led by Caesar is threatened by a band of human survivors of the devastating virus unleashed a decade earlier. They reach a fragile peace, but it proves short-lived, as both sides are brought to the brink of a war that will determine who will emerge as Earth's dominant species."
+  }
+]
